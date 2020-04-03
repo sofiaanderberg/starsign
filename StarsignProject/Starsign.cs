@@ -8,5 +8,6 @@ namespace StarsignProject
 {
     class Starsign
     {
+        private string name;
     }
 }
