@@ -8,5 +8,6 @@ namespace StarsignProject
 {
     class Class1
     {
+        //
     }
 }
