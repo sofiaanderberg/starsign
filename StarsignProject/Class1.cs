@@ -8,6 +8,6 @@ namespace StarsignProject
 {
     class Class1
     {
-        //
+        public String hej;
     }
 }
